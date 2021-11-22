@@ -1,3 +1,3 @@
-# work-visitka - Кролик
+# work-visitka 
 
 ![screen](screen.png)​
